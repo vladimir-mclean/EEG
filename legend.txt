@@ -6,3 +6,13 @@ MI_LSTM_test
 Classifying the EEG to three classes: imagery movement of left hand, imagery movement of right hand, rest state. Long short-term memory classification.
 https://en.wikipedia.org/wiki/Motor_imagery
 https://en.wikipedia.org/wiki/Long_short-term_memory
+
+ERP_SVM_test
+Detecting the attention to one-of-the-many visual flashing stimuli. Support Vector Machines classification.
+https://en.wikipedia.org/wiki/Event-related_potential
+https://en.wikipedia.org/wiki/Support_vector_machine
+
+ERP_AE_test
+Detecting the attention to one-of-the-many visual flashing stimuli. Autoencoders classification.
+https://en.wikipedia.org/wiki/Event-related_potential
+https://en.wikipedia.org/wiki/Autoencoder
